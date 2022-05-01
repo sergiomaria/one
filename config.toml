@@ -1,0 +1,4 @@
+baseURL = 'https://docs.onefinance.pt/'
+languageCode = 'pt-pt'
+title = 'OneFinance Docs'
+theme = 'ananke'  
