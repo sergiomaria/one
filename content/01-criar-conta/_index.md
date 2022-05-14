@@ -1,7 +1,7 @@
 +++
 title = "Criar Conta"
 date = 2022-05-14T11:25:45+01:00
-weight = 5
+weight = 10
 chapter = true
 # pre = "<b>1. </b>"
 url = "criar-conta"
