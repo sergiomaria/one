@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+<span id="sidebar-toggle-span">
+<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fas fa-bars"></i> navigation</a>
+</span>
+
+{{if .Site.Home.Content }} 
+{{.Site.Home.Content}}	
+{{else}}           
+	<h1>OneFinance Help</h1>
+
+	<h2>O que é?</h2>
+
+	<p>
+		O portal OneFinance é um serviço que tem como missão ajudá-lo a organizar os seus investimentos, permitindo-lhe simplificar enormemente 
+		a declaração de IRS referente a mais-valias e dividendos de ações.
+	</p>
+	<p>
+		Para cumprir as suas obrigações fiscais não basta calcular a diferença da soma das vendas pelas aquisições num determinado ano.
+		Estas obedecem a diversas regras, destacando-se, por exemplo, o critério de valorimetria FIFO. 
+		Este assenta no pressuposto que as vendas são realizadas por ordem de aquisição e não pelo preço médio calculado.
+		Se comprou 10 ações a 1€ cada e depois mais 10 a 2€ e deseja vender 15 ações, deverá declarar a venda de 10 com preço 
+		de aquisição de 1€ e as restantes com o valor de 2€.     
+	</p>
+	<p>Este processo torna-se cada vez mais complexo à medida que vai comprando e vendendo múltiplos títulos ao longo do ano.
+	Além disso, é algo que lhe toma muito tempo e energia e ainda assim com uma enorme probabilidade de erros.
+	Como se não bastasse, após compilar a informação, deverá ainda preencher manualmente a declaração de IRS, linha a linha em múltiplos quadros e anexos.
+	</p>
+	<p>Ou melhor, precisava. O portal OneFinance.pt é um especialista a fazer o trabalho árduo por si.</p>
+
+<h2>
+	A quem se destina?
+</h2>
+<p>O portal OneFinance.pt é essencialmente útil a todos os investidores particulares e contabilistas que têm a difícil e complicada
+	tarefa de organizar e declarar investimentos relacionados com títulos.
+</p>
+
+{{ end }}  
+{{ partial "footer.html" . }}
