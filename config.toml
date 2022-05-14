@@ -14,7 +14,7 @@ weight = 10
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
-  themeVariant = "mine"
+  themeVariant = "green"
 
 
  # Prefix URL to edit current page. Will display an "Edit this page" button on top right hand corner of every page.

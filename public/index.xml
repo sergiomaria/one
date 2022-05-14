@@ -1,11 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>OneFinance</title>
-    <link>https://docs.onefinance.pt/</link>
-    <description>Recent content on OneFinance</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pt-pt</language>
-    <lastBuildDate>Sat, 14 May 2022 10:33:17 +0100</lastBuildDate><atom:link href="https://docs.onefinance.pt/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OneFinance</title><link>https://docs.onefinance.pt/</link><description>Recent content on OneFinance</description><generator>Hugo -- gohugo.io</generator><language>pt-pt</language><lastBuildDate>Sat, 14 May 2022 12:23:13 +0100</lastBuildDate><atom:link href="https://docs.onefinance.pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Corretoras</title><link>https://docs.onefinance.pt/configuracoes/corretoras/</link><pubDate>Sat, 14 May 2022 12:23:13 +0100</pubDate><guid>https://docs.onefinance.pt/configuracoes/corretoras/</guid><description>Como definição de corretora no universo OneFinance, entende-se qualquer instituição financeira através da qual possa transacionar títulos financeiros. Pode ser o seu banco de longa data ou qualquer outra corretora especializada ou banco digital.
+Alguns exemplos incluem:
+Activo Banco Big Trading212 DeGIRO Millennium BCP O que saber Toda e qualquer transação terá de ficar associada a uma corretora para que seja possível segregar e categorizar corretamente os seus investimentos.</description></item></channel></rss>
