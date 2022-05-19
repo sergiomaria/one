@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configurações on OneFinance</title>
+    <link>https://docs.onefinance.pt/configuracoes/</link>
+    <description>Recent content in Configurações on OneFinance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sat, 14 May 2022 12:22:40 +0100</lastBuildDate><atom:link href="https://docs.onefinance.pt/configuracoes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Corretoras</title>
+      <link>https://docs.onefinance.pt/configuracoes/corretoras/</link>
+      <pubDate>Sat, 14 May 2022 12:23:13 +0100</pubDate>
+      
+      <guid>https://docs.onefinance.pt/configuracoes/corretoras/</guid>
+      <description>Conceitos Como definição de corretora no universo OneFinance, entende-se qualquer instituição financeira através da qual possa transacionar títulos financeiros. Pode ser o seu banco de longa data ou qualquer outra corretora especializada ou banco digital.
+Alguns exemplos incluem:
+ Activo Banco Big Trading212 DeGIRO Millennium BCP  O que saber Toda e qualquer transação terá de ficar associada a uma corretora para que seja possível segregar e categorizar corretamente os seus investimentos.</description>
+    </item>
+    
+    <item>
+      <title>Instrumentos Financeiros</title>
+      <link>https://docs.onefinance.pt/configuracoes/instrumentos-financeiros/</link>
+      <pubDate>Sat, 14 May 2022 12:23:04 +0100</pubDate>
+      
+      <guid>https://docs.onefinance.pt/configuracoes/instrumentos-financeiros/</guid>
+      <description>Conceitos Um instrumento financeiro está geralmente associado a uma empresa, tal como a EDP, Microsoft, etc., mas pode também representar um fundo ou um ETF cotado nas diferentes bolsas mundiais.
+Todos os títulos têm um ISIN (International Securities Identification Number) que funciona analogamente como o n.º de contribuinte, permitindo identificar de forma única uma empresa/fundo/ETF.
+Apesar do ISIN parecer uma ótima forma de identificar um título, este não permite diferenciar a negociação em diferentes mercados bolsistas.</description>
+    </item>
+    
+  </channel>
+</rss>
