@@ -6,8 +6,14 @@ chapter = true
 url = "dividendos"
 +++
 
-### Chapter X
+### Uma agradável fonte de rendimentos
 
-# Some Chapter title
+# Dividendos
 
-Lorem Ipsum.
+Os dividendos representam, para muitos, uma importate fonte de rendimentos. Simples e eficiente.
+
+
+O portal OneFinance.pt permite-lhe registar e acompanhar os dividendos recebidos, ajundando-o também no processo de preenchimento da declaração do IRS.
+
+Tal como nas transações, é necessário registar os dividendos e associá-los com o instrumento financeiro e a corretora.
+

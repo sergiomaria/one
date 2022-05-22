@@ -6,14 +6,15 @@ chapter = true
 url = "transacoes"
 +++
 
-### Chapter X
+### Tudo começa com uma compra
 
-# Some Chapter title
+# Transações
 
 
+Nesta secção iremos explorar tudo o que necessita de saber sobre transações.
 
-move it to another page
+[Conceitos]({{< relref "/03-transacoes/01.conceitos.md" >}} "Conceitos") 
 
----
-### Conceitos
-As transações representam as operações de compra e venda de títulos financeiros.
+[Adicionar Transações]({{< relref "/03-transacoes/02.adicionar.md" >}} "Adicionar transações")
+
+[Listar Transações]({{< relref "/03-transacoes/04.listar.md" >}} "Listar transações")

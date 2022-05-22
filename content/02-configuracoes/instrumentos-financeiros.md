@@ -42,12 +42,12 @@ Para aceder à página de instrumentos financeiros, aceda ao *menu lateral esque
 
 Após clicar no botão adicionar será direcionado para este ecrã, onde poderá inserir o ticker. Se não souber qual é, siga o link para o Yahoo Finance. O uso do ticker da Yahoo não é obrigatório, mas se não o usar, não terá aacesso a informações relevantes, nem poderá acompanhar a evolução do mercado no portal OneFinance.pt.
 
-{{<figure src="/configuracoes/pesquisar-instrumento.png" title="Pesquisar instrumento Financeiro" class="center">}}
+{{<figure src="/02-configuracoes/images/pesquisar-instrumento.png" title="Pesquisar instrumento Financeiro" class="center">}}
 
 Se inserir um título reconhecido e previamente carregado no portal, o nome já estará preenchido e o país da sede terá uma grande probabilidade de estar correto. **Deverá sempre confirmar pois é usado um algoritmo que tem em conta o país em que o título está a ser negociado, o que, como vimos não indica com absoluta certeza qual a sede do instrumento financeiro.**
 
 Se colocar, por exemplo, o teicker EDP.LS, a informação seguinte já estará mais completa, não necessitando de editar o nome e o país da fonte.
-{{<figure src="/configuracoes/adicionar-instrumento.png" title="Adicionar Instrumento Financeiro" class="center">}}
+{{<figure src="/02-configuracoes/images/adicionar-instrumento.png" title="Adicionar Instrumento Financeiro" class="center">}}
 
 O NIF é também relevante, especialmente em instrumentos financeiros nacionais. Se o colocar, este será preenchido automaticamente no anexo G no quadro referente às mais-valias.
 
@@ -55,7 +55,7 @@ Ao voltar à página anterior, poderá visualizar todos os instrumentos adiciona
 
 **Nota:** Mesmo que tenha conseguido inserir transações através do mecanismo de importação de títulos que não foram validados por si, não conseguirá visualizar os relatórios de IRS. Tal garantirá que a informação foi inserida por si deliberadamente, e que portanto, está correta de acordo com o que sabe.
 
-{{<figure src="/configuracoes/instrumentos-validados.png" title="Instrumentos Validados" class="center">}}
+{{<figure src="/02-configuracoes/images/instrumentos-validados.png" title="Instrumentos Validados" class="center">}}
 
 Para cada instrumento, tem agora a opção de editar/eliminar, clicando em cada um dos ícones da primeira coluna da tabela.
 
