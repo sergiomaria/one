@@ -22,6 +22,4 @@ Como processo de autenticação, poderá usar 2 mecanismos distintos.
 
 {{% notice tip %}}
 A sugestão é que use a sua conta Google como processo de autenticação, registo e posteriores logins. É mais seguro, prático e natural. Esta opção poderá ser desaconselhada se desejar, por alguma razão, partilhar a conta com outro utilizador. 
-Neste caso, há uma grande vantagem em usar uma conta local.
-
 {{% /notice %}}

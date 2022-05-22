@@ -11,7 +11,7 @@ url = "transacoes"
 # Transações
 
 
-Nesta secção iremos explorar tudo o que necessita de saber sobre transações.
+Nesta secção iremos explorar o que necessita de saber sobre transações.
 
 [Conceitos]({{< relref "/03-transacoes/01.conceitos.md" >}} "Conceitos") 
 

@@ -5,13 +5,11 @@ draft: false
 url: "/configuracoes/instrumentos-financeiros"
 ---
 
-
-### Conceitos 
 Um instrumento financeiro está geralmente associado a uma empresa, tal como a EDP, Microsoft, etc., mas pode também representar um fundo ou um ETF cotado nas diferentes bolsas mundiais.
 
 Todos os títulos têm um ISIN (International Securities Identification Number) que funciona analogamente como o n.º de contribuinte, permitindo identificar de forma única uma empresa/fundo/ETF. 
 
-Apesar do ISIN parecer uma ótima forma de identificar um título, este não permite diferenciar a negociação em diferentes mercados bolsistas. Por exemplo: a EDP tem o ISIN PTEDP0AM0009, podendo ser negociada na bolsa portuguesa e americana, em EUR e USD respetivamente, levando a problemas de rastreamento e cálculo do lucro com base na cotação. Que preço usar? 
+Apesar do ISIN parecer uma ótima forma de identificar um título, este não permite diferenciar a negociação em diferentes mercados bolsistas. Por exemplo: a EDP tem o ISIN PTEDP0AM0009, podendo ser negociada na bolsa portuguesa e americana, em EUR e USD. O ISIN identifica a empresa mas é limitado se quisermos rastrear a evolução e cálculo do lucro com base na cotação. Que preço usar? 
 
 É por esse motivo que o OneFinance recomenda a utilização de **tickers**, que permitem não só identificar de forma única o título, mas também o mercado bolsista em que é transacionado.
 
@@ -46,14 +44,12 @@ Após clicar no botão adicionar será direcionado para este ecrã, onde poderá
 
 Se inserir um título reconhecido e previamente carregado no portal, o nome já estará preenchido e o país da sede terá uma grande probabilidade de estar correto. **Deverá sempre confirmar pois é usado um algoritmo que tem em conta o país em que o título está a ser negociado, o que, como vimos não indica com absoluta certeza qual a sede do instrumento financeiro.**
 
-Se colocar, por exemplo, o teicker EDP.LS, a informação seguinte já estará mais completa, não necessitando de editar o nome e o país da fonte.
+Se colocar, por exemplo, o ticker EDP.LS, a informação seguinte já estará mais completa, não necessitando de preencher o nome e o país da fonte.
 {{<figure src="/02-configuracoes/images/adicionar-instrumento.png" title="Adicionar Instrumento Financeiro" class="center">}}
 
 O NIF é também relevante, especialmente em instrumentos financeiros nacionais. Se o colocar, este será preenchido automaticamente no anexo G no quadro referente às mais-valias.
 
 Ao voltar à página anterior, poderá visualizar todos os instrumentos adicionados e que se encontram validados, processo que lhe permitirá registar transações e dividendos posteriormente.
-
-**Nota:** Mesmo que tenha conseguido inserir transações através do mecanismo de importação de títulos que não foram validados por si, não conseguirá visualizar os relatórios de IRS. Tal garantirá que a informação foi inserida por si deliberadamente, e que portanto, está correta de acordo com o que sabe.
 
 {{<figure src="/02-configuracoes/images/instrumentos-validados.png" title="Instrumentos Validados" class="center">}}
 
